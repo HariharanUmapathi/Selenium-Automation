@@ -82,6 +82,11 @@
         "e:\\Selenium-Workspace\\Libraries\\selenium-java-4.8.3\\selenium-safari-driver-4.8.3.jar",
         "e:\\Selenium-Workspace\\Libraries\\selenium-java-4.8.3\\selenium-safari-driver-4.8.3-sources.jar",
         "e:\\Selenium-Workspace\\Libraries\\selenium-java-4.8.3\\selenium-support-4.8.3.jar",
-        "e:\\Selenium-Workspace\\Libraries\\selenium-java-4.8.3\\selenium-support-4.8.3-sources.jar"
+        "e:\\Selenium-Workspace\\Libraries\\selenium-java-4.8.3\\selenium-support-4.8.3-sources.jar",
+        "e:\\Selenium-Workspace\\Libraries\\Excel Library\\commons-collections4-4.1.jar",
+        "e:\\Selenium-Workspace\\Libraries\\Excel Library\\poi-3.17.jar",
+        "e:\\Selenium-Workspace\\Libraries\\Excel Library\\poi-ooxml-3.17.jar",
+        "e:\\Selenium-Workspace\\Libraries\\Excel Library\\poi-ooxml-schemas-3.17.jar",
+        "e:\\Selenium-Workspace\\Libraries\\Excel Library\\xmlbeans-2.6.0.jar"
     ]
 }

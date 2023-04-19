@@ -27,6 +27,11 @@ public class Sample {
             // Click on the Search button
             driver.findElement(By.linkText("Name")).click();
             Thread.sleep(3000);
+            driver.findElement(By.linkText("Name")).click();
+            Thread.sleep(3000);
+            driver.findElement(By.linkText("Name")).click();
+            Thread.sleep(3000);
+            driver.findElement(By.linkText("Name")).click();
             driver.close();
         } catch (Exception ex) {
             ex.printStackTrace();
